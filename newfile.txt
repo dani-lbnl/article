@@ -1,2 +1,3 @@
 new file
 add modifications to this file
+yet a new line
